@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create a flutter application in your machine named all_currency_converter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our application user ahe API for the conversion of the Currency rates so wo don't have to manually update the prices regularly.. 
+API do all the work for us..
+We can all ahe the available currencies in our application that the API provides, for demonstration I only added the 4 Currencies.
